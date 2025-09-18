@@ -1,0 +1,12 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "A C++ based interactive simulation of the Delhi Metro, combining **Object-Oriented Programming (OOP)**, **Graph Algorithms**, and real-world metro logic. The system allows users to calculate shortest routes, simulate real-time delays, and enjoy intelligent station name auto-completion—all through a user-friendly terminal interface.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
